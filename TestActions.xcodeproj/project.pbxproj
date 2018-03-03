@@ -63,15 +63,15 @@
 			isa = PBXGroup;
 			children = (
 				7A468C2B204AB968004202B3 /* AppDelegate.swift */,
+				7A468C38204AB968004202B3 /* Assets.xcassets */,
 				7A468C2D204AB968004202B3 /* GameScene.sks */,
-				7A468C45204ABB64004202B3 /* HeroActions.sks */,
 				7A468C31204AB968004202B3 /* GameScene.swift */,
 				7A468C33204AB968004202B3 /* GameViewController.swift */,
 				7A468C43204ABA90004202B3 /* Hero.sks */,
-				7A468C35204AB968004202B3 /* Main.storyboard */,
-				7A468C38204AB968004202B3 /* Assets.xcassets */,
-				7A468C3A204AB968004202B3 /* LaunchScreen.storyboard */,
+				7A468C45204ABB64004202B3 /* HeroActions.sks */,
 				7A468C3D204AB968004202B3 /* Info.plist */,
+				7A468C3A204AB968004202B3 /* LaunchScreen.storyboard */,
+				7A468C35204AB968004202B3 /* Main.storyboard */,
 			);
 			path = TestActions;
 			sourceTree = "<group>";
