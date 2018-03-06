@@ -22,6 +22,8 @@ class GameScene: SKScene {
         let body = SKSpriteNode(color: SKColor.blue, size: CGSize(width: 50, height: 50))
         
         head.removeFromParent()
+        head.isPaused = false;
+        
         hero.addChild(head)
         hero.addChild(body)
         self.addChild(hero)
